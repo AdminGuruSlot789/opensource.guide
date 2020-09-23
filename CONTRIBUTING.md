@@ -47,9 +47,9 @@ If you don't see your idea listed, and you think it fits into the goals of this 
 ## Style guide
 If you're writing content, see the [style guide](./docs/styleguide.md) to help your prose match the rest of the Guides.
 
-## Setting up your environment
+## การตั้งค่าสภาพแวดล้อมของคุณ
 
-This site is powered by [Jekyll](https://jekyllrb.com/). Running it on your local machine requires a working [Ruby](https://www.ruby-lang.org/en/) installation with [Bundler](https://bundler.io/).
+เว็บไซต์นี้ถูกขับเคลื่อนโดย[Jekyll] (https://jekyllrb.com/) ทำงานบนเครื่องของคุณต้องทำงาน[ทับทิม] (https://www.ruby-lang.org/en/)ติดตั้งกับ[Bundler] (https://bundler.io/)
 
 Once you have that set up, run:
 
